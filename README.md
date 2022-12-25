@@ -4,7 +4,7 @@
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
+📺 [youtube][youtube] 
 
 
 [website]: https://multifolio.de
