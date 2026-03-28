@@ -1,10 +1,10 @@
-My [bento page][bento]
+My [own page][ownpage]
 
 
 [website]: https://multifolio.de
 [twitter]: https://twitter.com/multifolio
 [youtube]: https://youtube.com/multifolio
-[bento]: https://bento.me/multi
+[ownpage]: https://own.page/multi
 
 <!---
 multifolio/multifolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
